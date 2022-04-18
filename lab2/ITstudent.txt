@@ -1,0 +1,12 @@
+RegistrationNo:Name:Department:Branch:Section:Sub1:Sub2:Sub3
+200:A:Information Technology:IT:30:50:70
+1:B:Information Technology:CCE:40:80:90
+4:C:Information Technology:IT:90:12:40
+6:D:Information Technology:CCE:80:50:70
+7:E:Information Technology:IT:50:40:90
+9:J:Information Technology:CCE:80:90:70
+8:I:Information Technology:IT:55:65:76
+10:W:Information Technology:CCE:76:87:97
+12:DWQ:Information Technology:CCE:45:34:56
+23:FF:Information Technology:IT:34:67:89
+
